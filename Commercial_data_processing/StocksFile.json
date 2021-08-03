@@ -1,0 +1,56 @@
+{
+  "StocksList": [
+    {
+      "CompanyName": "Hindustan Petroleum",
+      "StockSymbol": "HPCL",
+      "NumberOfShare": 1400,
+      "SharePrice": 250
+    },
+    {
+      "CompanyName": "Wipro Ltd",
+      "StockSymbol": "W",
+      "NumberOfShare": 1150,
+      "SharePrice": 600
+    },
+    {
+      "CompanyName": "Tata Steel",
+      "StockSymbol": "TS",
+      "NumberOfShare": 2550,
+      "SharePrice": 1500
+    }
+  ],
+  "AccountShares": [
+    {
+      "AccName": "omkar",
+      "StockName": null,
+      "StockSymbol": "",
+      "AccSharesNos": 0,
+      "SharePrice": 0,
+      "OperateDateTime": null
+    },
+    {
+      "AccName": "dummy",
+      "StockName": null,
+      "StockSymbol": "",
+      "AccSharesNos": 0,
+      "SharePrice": 0,
+      "OperateDateTime": null
+    },
+    {
+      "AccName": "ogb",
+      "StockName": "Hindustan Petroleum",
+      "StockSymbol": "hpcl",
+      "AccSharesNos": 100,
+      "SharePrice": 250,
+      "OperateDateTime": "2021-08-04T00:40:53.5247587+05:30"
+    },
+    {
+      "AccName": "xyz",
+      "StockName": "",
+      "StockSymbol": "",
+      "AccSharesNos": 0,
+      "SharePrice": 0,
+      "OperateDateTime": null
+    }
+  ]
+}
